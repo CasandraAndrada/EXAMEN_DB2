@@ -1,0 +1,2 @@
+--- TABELA SPITAL ---
+DELETE FROM spital WHERE id = 5;
